@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Maria! 👋
 
-<!--
-**mariatddt/mariatddt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics and Computing undergraduate at Universidad Carlos III de Madrid (UC3M), interested in software development, AI and the intersection of technology and human behaviour.
 
-Here are some ideas to get you started:
+I'm currently gaining experience in software development at Cynteract and working as a research assistant at UC3M.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- BSc Mathematics and Computing — Universidad Carlos III de Madrid
+- GPA: 8.6/10
+- Additional coursework in Neuroscience
+
+## 💻 Experience
+
+**Software Development Intern — Cynteract**
+- Working on interactive rehabilitation software.
+- DevelopAI-ing assisted speech generation and multilingual translation workflows.
+- Contributing to gameplay functionality and performance-tracking interfaces.
+
+**Research Assistant — UC3M**
+- Contributing to a longitudinal study on the evolution of social networks among school students.
+- Exploring network centrality, social belonging and brokerage positions.
+
+## 🛠️ Technologies
+
+- **Languages:** Python, C++, C#, SQL, HTML/CSS
+- **Tools:** Git, GitHub, Unity
+- **Interests:** Artificial Intelligence, Machine Learning, Cryptography, Data Science and Complex Systems.
+
+## 🌐 Contact me 
+
+- [Personal Website](https://mariatddt.github.io/)
